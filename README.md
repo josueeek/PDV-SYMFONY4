@@ -32,7 +32,7 @@ Depois, instale as dependências através do Composer:
 Configure o arquivo `.env` com as credenciais de acesso do banco de dados. Ex:
 
     ...
-    DATABASE_URL=mysql://root:senha123@127.0.0.1:3306/pdv1
+    DATABASE_URL=mysql://seuusuario:suasenhadomysql@127.0.0.1:3306/pdv1
     ...
 
 Inicie o servidor built-in do PHP através do comando:
